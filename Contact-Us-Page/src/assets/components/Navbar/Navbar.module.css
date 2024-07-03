@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5px;
+    margin: 0 25px;
+}
+.container ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+

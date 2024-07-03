@@ -1,0 +1,17 @@
+h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+p{
+    font-size: 18px;
+    color: #5A5959;
+    font-weight: 600;
+    width: 975px;
+}
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
